@@ -4,11 +4,10 @@
 
 
 ## 🚀 About Me
-I'm Machine Learning and Data Science researcher...
+I'm a Frontend Developer and also I like Machine Learning and Data Science topics ... 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arefe-alikhani-46139699/)
 
 
@@ -16,14 +15,15 @@ I'm Machine Learning and Data Science researcher...
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
-1. Python
-2. Machine Learning
-3. Deep Learning
-4. Data Analysis
-5. Graph Theory
-6. CSS
-7. HTML
-8. Javascript
+1. HTML
+2. CSS
+3. Javascript
+4. Python
+5. Machine Learning
+6. Deep Learning
+7. Data Analysis
+8. Graph Theory
+   
 
 
 
